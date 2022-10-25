@@ -1,0 +1,16 @@
+.login {
+  max-width: 70%;
+  margin: 40px auto;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+.error {
+  text-align: center;
+  background-color: rgb(244, 205, 205);
+  color: red;
+  font-size: 1rem;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: 1px red solid;
+}
