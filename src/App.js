@@ -89,6 +89,7 @@ class App extends React.Component {
     };
     return (
       <div className="App">
+        <h1>Login-logout</h1>
         {token ? <Dashboard {...dashBoardProps} /> : <Login {...loginProps} />}
       </div>
     );
